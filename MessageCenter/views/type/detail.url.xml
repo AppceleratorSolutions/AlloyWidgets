@@ -1,0 +1,7 @@
+<Alloy>
+	<Window id="window">
+		<View id="wrapper">
+			<WebView id="content" />
+		</View>
+	</Window>
+</Alloy>

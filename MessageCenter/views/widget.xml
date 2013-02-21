@@ -1,0 +1,15 @@
+<Alloy>
+	<Window id="window">
+		<NavigationGroup id="navgroup" platform="ios">
+			<Window id="screenWindow" title="Messages">
+				<LeftNavButton platform="ios">
+					<Button id="closeButton">Close</Button>
+				</LeftNavButton>
+
+				<TableView id="messageList" />
+			</Window>
+		</NavigationGroup>
+
+		<TableView id="messageList" platform="android" />
+	</Window>
+</Alloy>

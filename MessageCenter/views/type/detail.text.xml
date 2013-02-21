@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="window">
+		<View id="wrapper">
+			<Label id="title" />
+			<Label id="content" />
+		</View>
+	</Window>
+</Alloy>

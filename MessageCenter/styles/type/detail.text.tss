@@ -1,0 +1,16 @@
+"#wrapper": {
+	layout: "vertical"
+},
+"Label": {
+	right: 10,
+	left: 10,
+	top: 10,
+	bottom: 10,
+	height: Ti.UI.SIZE
+},
+"#title": {
+	font: { fontSize: 18 }
+},
+"#content": {
+	font: { fontSize: 14 }
+}

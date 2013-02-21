@@ -1,0 +1,8 @@
+"#window": {
+	modal: true,
+	backgroundColor: "#fff",
+	navBarHidden: true
+},
+"TableView": {
+	editable: true
+}
