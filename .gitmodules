@@ -1,0 +1,58 @@
+[submodule "ACS-login"]
+	path = ACS-login
+	url = git://github.com/bettytran/acsloginwidget.git
+[submodule "iconicLabel"]
+	path = iconicLabel
+	url = git://github.com/hoyo/net.hoyohoyo.iconiclabel.git
+
+[submodule "drawermenu"]
+	path = drawermenu
+	url = https://github.com/ricardoalcocer/alloy-widget-drawermenu
+[submodule "net.hoyohoyo.zuruiline"]
+	path = net.hoyohoyo.zuruiline
+	url = git://github.com/hoyo/net.hoyohoyo.zuruiline.git
+[submodule "nl.fokkezb.tweetsView"]
+	path = nl.fokkezb.tweetsView
+	url = git://github.com/FokkeZB/nl.fokkezb.tweetsView.git
+[submodule "nl.fokkezb.browserView"]
+	path = nl.fokkezb.browserView
+	url = git://github.com/FokkeZB/nl.fokkezb.browserView.git
+[submodule "titanium_alloy_calendar"]
+	path = titanium_alloy_calendar
+	url = git://github.com/hamasyou/titanium_alloy_calendar.git
+[submodule "alloy-rss-widget"]
+	path = alloy-rss-widget
+	url = git://github.com/eqhes/alloy-rss-widget.git
+[submodule "ci-alloy-twitter-widget"]
+	path = ci-alloy-twitter-widget
+	url = git://github.com/aaronksaunders/ci-alloy-twitter-widget.git
+[submodule "AlloySliderMenu"]
+	path = AlloySliderMenu
+	url = git://github.com/danielsefton/AlloySliderMenu.git
+[submodule "ti.sandtonio"]
+	path = ti.sandtonio
+	url = git://github.com/sandtonio/Alloy-Widgets.git
+[submodule "widget_info"]
+	path = widget_info
+	url = git://github.com/orthlieb/widget_info.git
+[submodule "scrollablewebview"]
+	path = scrollablewebview
+	url = git://github.com/orthlieb/widget_scrollablewebview.git
+[submodule "navigation"]
+	path = navigation
+	url = git://github.com/orthlieb/widget_navigation.git
+[submodule "combobox"]
+	path = combobox
+	url = git://github.com/orthlieb/widget_combobox.git
+[submodule "ti.pedro"]
+	path = ti.pedro
+	url = git://github.com/pec1985/Alloy-Widgets.git
+[submodule "nl.fokkezb.cachedImageView"]
+	path = nl.fokkezb.cachedImageView
+	url = git://github.com/FokkeZB/nl.fokkezb.cachedImageView.git
+[submodule "nl.fokkezb.dynamicScrolling"]
+	path = nl.fokkezb.dynamicScrolling
+	url = git://github.com/FokkeZB/nl.fokkezb.dynamicScrolling.git
+[submodule "nl.fokkezb.pullToRefresh"]
+	path = nl.fokkezb.pullToRefresh
+	url = git://github.com/FokkeZB/nl.fokkezb.pullToRefresh.git
