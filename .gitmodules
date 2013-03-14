@@ -56,3 +56,6 @@
 [submodule "nl.fokkezb.pullToRefresh"]
 	path = nl.fokkezb.pullToRefresh
 	url = git://github.com/FokkeZB/nl.fokkezb.pullToRefresh.git
+[submodule "nl.fokkezb.button"]
+	path = nl.fokkezb.button
+	url = https://github.com/FokkeZB/nl.fokkezb.button.git
