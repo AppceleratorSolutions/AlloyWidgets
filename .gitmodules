@@ -62,3 +62,6 @@
 [submodule "nl.fokkezb.loading"]
 	path = nl.fokkezb.loading
 	url = https://fokkezb@github.com/FokkeZB/nl.fokkezb.loading.git
+[submodule "ytPlayer"]
+	path = ytPlayer
+	url = https://github.com/bob-sims/ytPlayer
