@@ -65,3 +65,6 @@
 [submodule "ytPlayer"]
 	path = ytPlayer
 	url = https://github.com/bob-sims/ytPlayer
+[submodule "raulriera_tableview"]
+	path = raulriera_tableview
+	url = https://github.com/raulriera/alloy-widgets
