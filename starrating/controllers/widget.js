@@ -38,16 +38,18 @@ var createStars = function(num, cb) {
 		// define the image view
 		var star = Alloy.createWidget('starrating', 'star').getView();
 
-		// use a closure (self-calling function) to add
-		// a click-event listener that calls setRating
-		// passing the value of i+1
-			(function() {
-			var index = i;
-			star.addEventListener('click', function() {
-				setRating(index+1);
-				cb(index+1);
-			});
-		})();
+	        if (args.editable){
+	            // use a closure (self-calling function) to add
+	            // a click-event listener that calls setRating
+	            // passing the value of i+1
+	            (function() {
+	                var index = i;
+	                star.addEventListener('click', function() {
+	                    setRating(index+1);
+	                    cb(index+1);
+	                });
+	            })();
+	        }
 		// add the star image to the stars array
 		stars.push(star);
 		// add the star image to the instance view
@@ -65,4 +67,4 @@ exports.init = function (callback) {
 	// without coding them in to this controller, alloy limitation as of this writing
 	_.extend($.starrating, args);
 	
-}
+};
