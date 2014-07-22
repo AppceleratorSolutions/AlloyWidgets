@@ -38,7 +38,7 @@ var createStars = function(num, cb) {
 		// define the image view
 		var star = Alloy.createWidget('starrating', 'star').getView();
 
-	        if (args.editable){
+	        if (!args.editable){
 	            // use a closure (self-calling function) to add
 	            // a click-event listener that calls setRating
 	            // passing the value of i+1
